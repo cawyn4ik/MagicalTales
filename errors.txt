@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 347: style property style is not known.
+    style big_red
+         ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Fri Feb  3 21:26:01 2023
